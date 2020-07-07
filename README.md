@@ -1,3 +1,4 @@
 
 
-![海贼王](image\海贼王.jpg)
+![海贼王](https://gitee.com/guo_xia_xia/image/blob/master/1.jpg)
+
